@@ -169,6 +169,13 @@ body {
 	        .box-shadow(0 0 1px fade(@base-color, 20));
 		}
 	}
+	.post-author-photo {
+		width: 42px;
+		height: 42px;
+		.rounded(42px);
+		margin: -12px 8px 0 0;
+		float: left;
+	}
 }
 #post,
 #page {
@@ -276,7 +283,7 @@ body {
 	h3 {
 		margin: 0;
 		.font-rem(28);
-		a { 
+		a {
 			color: @primary;
 		}
 		@media @medium {
@@ -290,11 +297,11 @@ body {
 .list-item {
 	width: 100%;
 	text-align: left;
-	h4 { 
+	h4 {
 		.font-rem(18);
-		margin-bottom: 0; 
+		margin-bottom: 0;
 	}
-	span { 
+	span {
 		display: block;
 		.font-rem(14);
 		color: lighten(@base-color,50);
@@ -308,7 +315,7 @@ body {
 	}
 }
 
-// Post Index 
+// Post Index
 // --------------------------------------------------
 #post-index {
 	#main {
@@ -357,7 +364,7 @@ body {
 .socialcount {
 	.font-rem(16);
 	font-weight: 700;
-	li { 
+	li {
 		padding-left: 10px;
 		padding-right: 10px;
 	}
