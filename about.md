@@ -4,9 +4,9 @@ permalink: /about/
 title: About Me
 tags: [meta]
 image:
-  feature: about-banner.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com/
+  feature: banner.png
+  credit: James Kegel
+  creditlink: http://simpledesktops.com/browse/desktops/2012/sep/04/gradient/
 share: true
 ---
 
