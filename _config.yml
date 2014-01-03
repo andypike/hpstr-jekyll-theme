@@ -2,7 +2,7 @@ title:            Andy Pike
 description:      Pragmatic ponderings - The personal blog of Andy Pike.
 disqus_shortname:
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://andypike.com
+url:              #http://andypike.com
 
 # Owner/author information
 owner:
