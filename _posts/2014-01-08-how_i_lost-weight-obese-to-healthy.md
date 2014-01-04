@@ -105,5 +105,5 @@ If you are going to start running, get yourself a good pair of running shoes. Th
 
 As I [talked about in my last post](/new-year-new-blog/), I'm considering writing up my experiences over the last year (and beyond) into an e-book with more details of what I did and how I did it. If you are interested in reading that book, you can sign up to hear news about it and also help me understand how much interest there is.
 
-<a href="https://www.signupanywhere.com/signup/a3cd0SaQ" class="btn btn-success">I'm interested, tell me when it's available!</a>
+<a href="https://www.signupanywhere.com/signup/a3cd0SaQ" class="btn btn-success" onClick="trackOutboundLink(this, 'ebook', 'signup'); return false;">I'm interested, tell me when it's available!</a>
 
