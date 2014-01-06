@@ -74,4 +74,4 @@ Obviously the biggest thing is my new avatar. I've had the same avatar on all my
 
 That wraps up my first post! I'm looking forward to the year ahead and the challenges that it brings. Let's do this...
 
-What to chat to me about this post? [I'm on twitter as @andypike](http://twitter.com/andypike)
+Want to chat to me about this post? [I'm on twitter as @andypike](http://twitter.com/andypike)

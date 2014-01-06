@@ -107,4 +107,4 @@ As I [talked about in my last post](/new-year-new-blog/), I'm considering writin
 
 <a href="https://www.signupanywhere.com/signup/a3cd0SaQ" class="btn btn-success" onClick="trackOutboundLink(this, 'ebook', 'signup'); return false;">I'm interested, tell me when it's available!</a>
 
-What to chat to me about this post? [I'm on twitter as @andypike](http://twitter.com/andypike)
+Want to chat to me about this post? [I'm on twitter as @andypike](http://twitter.com/andypike)
